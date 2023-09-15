@@ -1,0 +1,56 @@
+h2{
+    font-size: 1.5em;
+    text-align: center;
+    background-color: rgb(11, 56, 98);
+    padding: 1.2em;
+    color: white;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+    color: red;
+    font-family: Comic Sans,Comic Sans MS,Chalkboard,ChalkboardSE-Regular,sans-serif;
+}
+.imgcontainer
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+p{
+    font-family: Comic Sans,Comic Sans MS,Chalkboard,ChalkboardSE-Regular,sans-serif;
+    text-align: center;
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    text-align: center;
+}
+a{
+    text-align: center;
+    display: block;
+}
+.container{
+    text-align: center;
+    font-style: italic;
+}
+.mail
+{
+  display: flex;
+  gap: 1em;
+  align-items: center;
+}
+.center
+{
+    width: 100%;
+    display: flex;justify-content: center;align-items: center;
+}
+body{
+    background-image: url("https://devin.la/ep_naturalwhite.jpg");
+}
